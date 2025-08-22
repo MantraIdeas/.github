@@ -1,12 +1,61 @@
-## Hi there 👋
+# 🌐 Mantra Ideas
 
-<!--
+**We offer comprehensive web services to boost your online presence and drive business growth.**  
+At Mantra Ideas, we combine creativity, technology, and strategy to deliver solutions that empower businesses in the digital era.  
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 What We Do
+- **Web Development** – Scalable, secure, and user-friendly websites.  
+- **Mobile App Development** – Cross-platform apps with seamless user experience.  
+- **Software Development** – Custom solutions tailored to your business needs.  
+- **Digital Marketing** – Strategies to maximize your reach and growth.  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+---
+
+## 📦 Open Source
+We believe in contributing back to the community.  
+Currently, we’re publishing Laravel packages and more projects are on the way. Stay tuned!  
+
+👉 Explore our GitHub: [github.com/MantraIdeas](https://github.com/MantraIdeas)
+
+---
+
+## 💡 Our Values
+- Innovation that drives results  
+- Collaboration and transparency  
+- Quality-first approach  
+- Commitment to open source & community  
+
+---
+
+## 📬 Connect with Us
+
+<p align="center">
+  <a href="https://mantraideas.com/">
+    <img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/company/mantraideas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/mantraideas">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+✨ *We’re here to transform ideas into impactful digital experiences.*  
