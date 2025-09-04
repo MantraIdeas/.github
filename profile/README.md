@@ -16,11 +16,15 @@ At Mantra Ideas, we combine creativity, technology, and strategy to deliver solu
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <!-- Core Language -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
   <!-- PHP Frameworks -->
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
   <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/FilamentPHP-EB5286?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
 
   <!-- JS Frameworks -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -36,10 +40,19 @@ At Mantra Ideas, we combine creativity, technology, and strategy to deliver solu
   <!-- CMS -->
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
-  <!-- Databases -->
+  <!-- Styling -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+  <!-- Databases & ORM -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+  <!-- APIs & Realtime -->
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
@@ -50,13 +63,14 @@ At Mantra Ideas, we combine creativity, technology, and strategy to deliver solu
 </p>
 
 
+
 ---
 
 ## 📦 Open Source
 We believe in contributing back to the community.  
 Currently, we’re publishing Laravel packages and more projects are on the way. Stay tuned!  
 
-👉 Explore our GitHub: [github.com/MantraIdeas](https://github.com/MantraIdeas)
+👉 Explore our GitHub: [github.com/MantraIdeas](https://github.com/orgs/MantraIdeas/repositories)
 
 ---
 
